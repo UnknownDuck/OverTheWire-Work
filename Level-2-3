@@ -1,0 +1,13 @@
+This is my work on level 2-3
+
+the goal of this is to find the content of a filename with spaces 
+https://linuxopsys.com/topics/how-to-read-filename-with-spaces-in-linux
+
+I used the link above to use the commmand cat injunction with '   '   allowing me to obtain the flag
+
+cat 'spaces in this filename'
+
+flag = UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+
+https://overthewire.org/wargames/bandit/bandit2.html
