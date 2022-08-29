@@ -1,0 +1,17 @@
+This file tracks the progress of level 3-4
+
+I used ls -a to show the inhere hidden file
+
+this showwed the hidden files 
+
+from there I cd'ed into the hidden directory 
+ 
+then used ls -a to show the .hidden 
+
+then used the cat .hidden to show the flag
+
+flag = pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+It worked!!!
+
+https://overthewire.org/wargames/bandit/
