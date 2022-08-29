@@ -1,0 +1,22 @@
+This file contains the level work for 5-6
+
+First I cd'ed into the inhere hidden file
+
+then I ls -a to see all the hidden files in the dirct
+
+then I used the du -a command to see all the file sizes 
+
+then I used the du -a -b to see the byte size of all files 
+
+then found that maybehere07 had a file with 1033 bytes file
+
+then opened maybehere07 directory and used the du -a -b
+
+found it was file2 and used cat ./.file2 to find the flag
+
+flag = DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+It worked!!!
+
+
+https://overthewire.org/wargames/bandit/bandit6.html
