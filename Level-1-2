@@ -1,0 +1,16 @@
+Work on level 1-2
+
+this is about reading dashed files 
+
+I used the more ./- command to find the flag
+
+cat did not work duo to understanding the - as a standard input and waiting for the input
+https://www.golinuxcloud.com/overview-bash-dashed-filename-directory-linux/
+
+
+flag found = CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+It worked!!!!
+
+
+https://overthewire.org/wargames/bandit/
