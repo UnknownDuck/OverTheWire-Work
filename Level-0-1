@@ -1,6 +1,19 @@
 Work on Level 0-1 on teh Bandit Wargame 
 
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+^this ssh'ed me into the system
 
+bandit0
+^password for the ssh
+
+got the flag after cat readme
+
+flag = boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+used this as password to ssh into bandit1 !!!!
+
+
+it worked i'm in
 
 
 
