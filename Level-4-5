@@ -1,6 +1,19 @@
 This file tracks the progress form lv 4-5
 
+This was found through first cd'ing into the inhere hidden directory
 
+Then ls'ing all the files contained in the dirct
 
+the cat ./-file (then adding the numbers)
+
+then looked for the only file that was properly readable 
+
+which was only file -file07
+
+showing the flag 
+
+flag = koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+It worked!!!
 
 https://overthewire.org/wargames/bandit/bandit4.html
